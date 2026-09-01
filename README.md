@@ -1,2 +1,5 @@
 # Repository for final project
-Final project
+---
+title: "Final project"
+date: 2026-09-01
+---
